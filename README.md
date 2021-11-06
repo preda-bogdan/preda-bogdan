@@ -15,28 +15,46 @@ Hi, I'm [Bogdan](https://github.com/preda-bogdan/), a self-taught developer that
 I am currently working at [Themeisle](https://themeisle.com/) where I'm trying my best to build great software and user experiences.
 <br />
 
-### :computer:   Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+## Things I code with
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=black" />
 
-### :coffee:   Stats for Geeks
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-232531?style=flat-square&logo=php&logoColor=white" />
+  
+  <img alt="JS" src="https://img.shields.io/badge/-JS-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+
+  <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-007ACC?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-d32f2f?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2088FF?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  
+  <img alt="PHPStorm" src="https://img.shields.io/badge/-PHPStorm-232531?style=flat-square&logo=phpstorm&logoColor=white" />
+</p>
+
+## Stats for Geeks :coffee:
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preda-bogdan&theme=buefy-dark&hide_border=true&dates=ee9b00&date_format=d&nbsp;M[&nbsp;Y]" alt="preda-bogdan's streak" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preda-bogdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="preda-bogdan's stats" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preda-bogdan&theme=tokyonight&hide_border=true&count_private=true&custom_title=Recent%20language%20usage" alt="preda-bogdan's recent language usage" />
 <br />
 
-### :zap:   Recent Activity
+### Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3186](https://github.com/Codeinwp/neve/issues/3186) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 2. 🗣 Commented on [#3171](https://github.com/Codeinwp/neve/issues/3171) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
