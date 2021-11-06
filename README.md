@@ -1,15 +1,45 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/bogdanWK">
+  <img align="left" alt="Bogdan Preda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/31sjtuvzsrv2uoh2nrdsxilwpv5i">
+  <img align="left" alt="Bogdan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=preda-bogdan.preda-bogdan&left_color=gray&right_color=blue)
+<br />
 
-<a href="https://github.com/preda-bogdan">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preda-bogdan&theme=buefy-dark&hide_border=true&dates=ee9b00&date_format=d&nbsp;M[&nbsp;Y]" />
-</a>
-<a href="https://github.com/preda-bogdan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preda-bogdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
+Hi, I'm [Bogdan](https://github.com/preda-bogdan/), a self-taught developer that is passionate about learning and working with new tools and technologies. I love tinkering and trying to build better and beautifull code that just works.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preda-bogdan&theme=tokyonight&hide_border=true&count_private=true&custom_title=Recent%20language%20usage)](https://github.com/preda-bogdan/github-readme-stats)
+I am currently working at [Themeisle](https://themeisle.com/) where I'm trying my best to build great software and user experiences.
+
+<img align="right" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<br />
+
+### :computer: Languages and Tools
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+
+### :coffee: Stats for Geeks
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preda-bogdan&theme=buefy-dark&hide_border=true&dates=ee9b00&date_format=d&nbsp;M[&nbsp;Y]" alt="preda-bogdan's streak" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preda-bogdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="preda-bogdan's stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preda-bogdan&theme=tokyonight&hide_border=true&count_private=true&custom_title=Recent%20language%20usage" alt="preda-bogdan's recent language usage" />
+<br />
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
@@ -19,7 +49,10 @@
 4. 🗣 Commented on [#3171](https://github.com/Codeinwp/neve/issues/3171) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 5. 🗣 Commented on [#3172](https://github.com/Codeinwp/neve/issues/3172) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
+<br />
 
+
+[![Bogdan Preda's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1468837&layout=compact&theme=dark)](https://stackoverflow.com/users/users/1468837/preda-bogdan)
 <!--
 **preda-bogdan/preda-bogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
