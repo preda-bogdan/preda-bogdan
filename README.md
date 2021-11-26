@@ -57,9 +57,9 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3215](https://github.com/Codeinwp/neve/issues/3215) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🗣 Commented on [#3238](https://github.com/Codeinwp/neve/issues/3238) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 💪 Opened PR [#3238](https://github.com/Codeinwp/neve/pull/3238) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🗣 Commented on [#3132](https://github.com/Codeinwp/neve/issues/3132) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 🗣 Commented on [#3215](https://github.com/Codeinwp/neve/issues/3215) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🗣 Commented on [#3238](https://github.com/Codeinwp/neve/issues/3238) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 💪 Opened PR [#3238](https://github.com/Codeinwp/neve/pull/3238) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 5. 🗣 Commented on [#3132](https://github.com/Codeinwp/neve/issues/3132) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
