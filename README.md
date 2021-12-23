@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10438](https://github.com/solana-labs/token-list/pull/10438) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
-2. ❌ Closed PR [#10431](https://github.com/solana-labs/token-list/pull/10431) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
-3. 💪 Opened PR [#10431](https://github.com/solana-labs/token-list/pull/10431) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
-4. ❌ Closed PR [#10421](https://github.com/solana-labs/token-list/pull/10421) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
-5. 💪 Opened PR [#10421](https://github.com/solana-labs/token-list/pull/10421) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
+1. ❌ Closed PR [#1](https://github.com/preda-bogdan/token-list/pull/1) in [preda-bogdan/token-list](https://github.com/preda-bogdan/token-list)
+2. 💪 Opened PR [#1](https://github.com/preda-bogdan/token-list/pull/1) in [preda-bogdan/token-list](https://github.com/preda-bogdan/token-list)
+3. 💪 Opened PR [#10474](https://github.com/solana-labs/token-list/pull/10474) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
+4. ❌ Closed PR [#10438](https://github.com/solana-labs/token-list/pull/10438) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
+5. 💪 Opened PR [#10438](https://github.com/solana-labs/token-list/pull/10438) in [solana-labs/token-list](https://github.com/solana-labs/token-list)
 <!--END_SECTION:activity-->
 <br />
 
