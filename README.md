@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3407](https://github.com/Codeinwp/neve/issues/3407) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 🗣 Commented on [#3405](https://github.com/Codeinwp/neve/issues/3405) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 2. 🗣 Commented on [#3407](https://github.com/Codeinwp/neve/issues/3407) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 3. 🗣 Commented on [#3407](https://github.com/Codeinwp/neve/issues/3407) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🗣 Commented on [#813](https://github.com/Codeinwp/otter-blocks/issues/813) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
-5. 🗣 Commented on [#799](https://github.com/Codeinwp/otter-blocks/issues/799) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
+4. 🗣 Commented on [#3407](https://github.com/Codeinwp/neve/issues/3407) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#813](https://github.com/Codeinwp/otter-blocks/issues/813) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
 <!--END_SECTION:activity-->
 <br />
 
