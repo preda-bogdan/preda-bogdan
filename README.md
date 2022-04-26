@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3447](https://github.com/Codeinwp/neve/pull/3447) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🗣 Commented on [#3441](https://github.com/Codeinwp/neve/issues/3441) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 💪 Opened PR [#3441](https://github.com/Codeinwp/neve/pull/3441) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🗣 Commented on [#3403](https://github.com/Codeinwp/neve/issues/3403) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 🗣 Commented on [#142](https://github.com/Codeinwp/templates-patterns-collection/issues/142) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🎉 Merged PR [#3447](https://github.com/Codeinwp/neve/pull/3447) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 💪 Opened PR [#3447](https://github.com/Codeinwp/neve/pull/3447) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🗣 Commented on [#3441](https://github.com/Codeinwp/neve/issues/3441) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 💪 Opened PR [#3441](https://github.com/Codeinwp/neve/pull/3441) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#3403](https://github.com/Codeinwp/neve/issues/3403) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
