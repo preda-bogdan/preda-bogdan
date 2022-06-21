@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3438](https://github.com/Codeinwp/neve/issues/3438) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. ❌ Closed PR [#3487](https://github.com/Codeinwp/neve/pull/3487) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 2. 🗣 Commented on [#3438](https://github.com/Codeinwp/neve/issues/3438) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 💪 Opened PR [#3490](https://github.com/Codeinwp/neve/pull/3490) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 💪 Opened PR [#3487](https://github.com/Codeinwp/neve/pull/3487) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 💪 Opened PR [#3486](https://github.com/Codeinwp/neve/pull/3486) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🗣 Commented on [#3438](https://github.com/Codeinwp/neve/issues/3438) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 💪 Opened PR [#3490](https://github.com/Codeinwp/neve/pull/3490) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 💪 Opened PR [#3487](https://github.com/Codeinwp/neve/pull/3487) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
