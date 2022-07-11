@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/Codeinwp/templates-patterns-collection/pull/149) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🗣 Commented on [#1025](https://github.com/Codeinwp/otter-blocks/issues/1025) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
-3. 🗣 Commented on [#3166](https://github.com/Codeinwp/neve/issues/3166) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🗣 Commented on [#3528](https://github.com/Codeinwp/neve/issues/3528) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 🗣 Commented on [#3527](https://github.com/Codeinwp/neve/issues/3527) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 💪 Opened PR [#3535](https://github.com/Codeinwp/neve/pull/3535) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 💪 Opened PR [#149](https://github.com/Codeinwp/templates-patterns-collection/pull/149) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🗣 Commented on [#1025](https://github.com/Codeinwp/otter-blocks/issues/1025) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
+4. 🗣 Commented on [#3166](https://github.com/Codeinwp/neve/issues/3166) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#3528](https://github.com/Codeinwp/neve/issues/3528) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
