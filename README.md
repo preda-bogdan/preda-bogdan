@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#151](https://github.com/Codeinwp/templates-patterns-collection/issues/151) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🎉 Merged PR [#150](https://github.com/Codeinwp/templates-patterns-collection/pull/150) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 💪 Opened PR [#150](https://github.com/Codeinwp/templates-patterns-collection/pull/150) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 🎉 Merged PR [#149](https://github.com/Codeinwp/templates-patterns-collection/pull/149) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 💪 Opened PR [#3535](https://github.com/Codeinwp/neve/pull/3535) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 🗣 Commented on [#152](https://github.com/Codeinwp/templates-patterns-collection/issues/152) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🗣 Commented on [#152](https://github.com/Codeinwp/templates-patterns-collection/issues/152) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 💪 Opened PR [#152](https://github.com/Codeinwp/templates-patterns-collection/pull/152) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. ❗️ Opened issue [#151](https://github.com/Codeinwp/templates-patterns-collection/issues/151) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🎉 Merged PR [#150](https://github.com/Codeinwp/templates-patterns-collection/pull/150) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
