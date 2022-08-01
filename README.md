@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/Codeinwp/templates-patterns-collection/issues/157) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. ❗️ Closed issue [#154](https://github.com/Codeinwp/templates-patterns-collection/issues/154) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🗣 Commented on [#154](https://github.com/Codeinwp/templates-patterns-collection/issues/154) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. ❗️ Opened issue [#161](https://github.com/Codeinwp/templates-patterns-collection/issues/161) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. ❗️ Closed issue [#158](https://github.com/Codeinwp/templates-patterns-collection/issues/158) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 💪 Opened PR [#3554](https://github.com/Codeinwp/neve/pull/3554) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 🗣 Commented on [#157](https://github.com/Codeinwp/templates-patterns-collection/issues/157) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. ❗️ Closed issue [#154](https://github.com/Codeinwp/templates-patterns-collection/issues/154) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 🗣 Commented on [#154](https://github.com/Codeinwp/templates-patterns-collection/issues/154) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. ❗️ Opened issue [#161](https://github.com/Codeinwp/templates-patterns-collection/issues/161) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
