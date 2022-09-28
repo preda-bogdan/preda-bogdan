@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3637](https://github.com/Codeinwp/neve/pull/3637) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🗣 Commented on [#3632](https://github.com/Codeinwp/neve/issues/3632) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 🗣 Commented on [#3637](https://github.com/Codeinwp/neve/issues/3637) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 💪 Opened PR [#3637](https://github.com/Codeinwp/neve/pull/3637) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 3. 🗣 Commented on [#3632](https://github.com/Codeinwp/neve/issues/3632) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 4. 🗣 Commented on [#3632](https://github.com/Codeinwp/neve/issues/3632) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 💪 Opened PR [#3633](https://github.com/Codeinwp/neve/pull/3633) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#3632](https://github.com/Codeinwp/neve/issues/3632) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
