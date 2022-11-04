@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/Codeinwp/templates-patterns-collection/pull/176) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. ❗️ Opened issue [#175](https://github.com/Codeinwp/templates-patterns-collection/issues/175) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🗣 Commented on [#146](https://github.com/Codeinwp/templates-patterns-collection/issues/146) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. ❗️ Closed issue [#168](https://github.com/Codeinwp/templates-patterns-collection/issues/168) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. ❗️ Closed issue [#172](https://github.com/Codeinwp/templates-patterns-collection/issues/172) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🗣 Commented on [#178](https://github.com/Codeinwp/templates-patterns-collection/issues/178) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🗣 Commented on [#178](https://github.com/Codeinwp/templates-patterns-collection/issues/178) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 💪 Opened PR [#176](https://github.com/Codeinwp/templates-patterns-collection/pull/176) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. ❗️ Opened issue [#175](https://github.com/Codeinwp/templates-patterns-collection/issues/175) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🗣 Commented on [#146](https://github.com/Codeinwp/templates-patterns-collection/issues/146) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
