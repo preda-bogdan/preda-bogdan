@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/Codeinwp/templates-patterns-collection/pull/185) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🎉 Merged PR [#167](https://github.com/Codeinwp/templates-patterns-collection/pull/167) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 💪 Opened PR [#186](https://github.com/Codeinwp/templates-patterns-collection/pull/186) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 🗣 Commented on [#3701](https://github.com/Codeinwp/neve/issues/3701) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 🗣 Commented on [#146](https://github.com/Codeinwp/templates-patterns-collection/issues/146) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🎉 Merged PR [#186](https://github.com/Codeinwp/templates-patterns-collection/pull/186) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🎉 Merged PR [#185](https://github.com/Codeinwp/templates-patterns-collection/pull/185) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🎉 Merged PR [#167](https://github.com/Codeinwp/templates-patterns-collection/pull/167) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 💪 Opened PR [#186](https://github.com/Codeinwp/templates-patterns-collection/pull/186) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🗣 Commented on [#3701](https://github.com/Codeinwp/neve/issues/3701) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
