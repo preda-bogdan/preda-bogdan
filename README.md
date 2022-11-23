@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#188](https://github.com/Codeinwp/templates-patterns-collection/issues/188) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🗣 Commented on [#164](https://github.com/Codeinwp/templates-patterns-collection/issues/164) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 💪 Opened PR [#187](https://github.com/Codeinwp/templates-patterns-collection/pull/187) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 🎉 Merged PR [#186](https://github.com/Codeinwp/templates-patterns-collection/pull/186) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🎉 Merged PR [#185](https://github.com/Codeinwp/templates-patterns-collection/pull/185) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🗣 Commented on [#188](https://github.com/Codeinwp/templates-patterns-collection/issues/188) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. ❌ Closed PR [#140](https://github.com/Codeinwp/themeisle-sdk/pull/140) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
+3. 🗣 Commented on [#140](https://github.com/Codeinwp/themeisle-sdk/issues/140) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
+4. ❗️ Opened issue [#188](https://github.com/Codeinwp/templates-patterns-collection/issues/188) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🗣 Commented on [#164](https://github.com/Codeinwp/templates-patterns-collection/issues/164) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
