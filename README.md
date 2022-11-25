@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/Codeinwp/templates-patterns-collection/pull/189) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🎉 Merged PR [#187](https://github.com/Codeinwp/templates-patterns-collection/pull/187) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🗣 Commented on [#188](https://github.com/Codeinwp/templates-patterns-collection/issues/188) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. ❌ Closed PR [#140](https://github.com/Codeinwp/themeisle-sdk/pull/140) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
-5. 🗣 Commented on [#140](https://github.com/Codeinwp/themeisle-sdk/issues/140) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
+1. ❗️ Closed issue [#146](https://github.com/Codeinwp/templates-patterns-collection/issues/146) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. ❗️ Closed issue [#188](https://github.com/Codeinwp/templates-patterns-collection/issues/188) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🎉 Merged PR [#189](https://github.com/Codeinwp/templates-patterns-collection/pull/189) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 💪 Opened PR [#189](https://github.com/Codeinwp/templates-patterns-collection/pull/189) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🎉 Merged PR [#187](https://github.com/Codeinwp/templates-patterns-collection/pull/187) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
