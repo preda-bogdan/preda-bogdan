@@ -56,11 +56,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#202](https://github.com/Codeinwp/templates-patterns-collection/pull/202) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🎉 Merged PR [#201](https://github.com/Codeinwp/templates-patterns-collection/pull/201) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🗣 Commented on [#201](https://github.com/Codeinwp/templates-patterns-collection/issues/201) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 🗣 Commented on [#200](https://github.com/Codeinwp/templates-patterns-collection/issues/200) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🗣 Commented on [#3775](https://github.com/Codeinwp/neve/issues/3775) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 💪 Opened PR [#203](https://github.com/Codeinwp/templates-patterns-collection/pull/203) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 💪 Opened PR [#202](https://github.com/Codeinwp/templates-patterns-collection/pull/202) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🎉 Merged PR [#201](https://github.com/Codeinwp/templates-patterns-collection/pull/201) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 🗣 Commented on [#201](https://github.com/Codeinwp/templates-patterns-collection/issues/201) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🗣 Commented on [#200](https://github.com/Codeinwp/templates-patterns-collection/issues/200) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
