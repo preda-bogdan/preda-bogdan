@@ -3,9 +3,6 @@
 <a href="https://twitter.com/bogdanWK">
   <img align="left" alt="Bogdan Preda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/31sjtuvzsrv2uoh2nrdsxilwpv5i">
-  <img align="left" alt="Bogdan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=preda-bogdan.preda-bogdan&left_color=gray&right_color=blue)
 <br />
