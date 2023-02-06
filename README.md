@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1488](https://github.com/Codeinwp/otter-blocks/issues/1488) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
-2. 🗣 Commented on [#194](https://github.com/Codeinwp/templates-patterns-collection/issues/194) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 💪 Opened PR [#216](https://github.com/Codeinwp/templates-patterns-collection/pull/216) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. ❗️ Closed issue [#214](https://github.com/Codeinwp/templates-patterns-collection/issues/214) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🎉 Merged PR [#211](https://github.com/Codeinwp/templates-patterns-collection/pull/211) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🗣 Commented on [#194](https://github.com/Codeinwp/templates-patterns-collection/issues/194) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🗣 Commented on [#1488](https://github.com/Codeinwp/otter-blocks/issues/1488) in [Codeinwp/otter-blocks](https://github.com/Codeinwp/otter-blocks)
+3. 🗣 Commented on [#194](https://github.com/Codeinwp/templates-patterns-collection/issues/194) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 💪 Opened PR [#216](https://github.com/Codeinwp/templates-patterns-collection/pull/216) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. ❗️ Closed issue [#214](https://github.com/Codeinwp/templates-patterns-collection/issues/214) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
