@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/Codeinwp/templates-patterns-collection/pull/217) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 💪 Opened PR [#219](https://github.com/Codeinwp/templates-patterns-collection/pull/219) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🎉 Merged PR [#210](https://github.com/Codeinwp/templates-patterns-collection/pull/210) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 💪 Opened PR [#3830](https://github.com/Codeinwp/neve/pull/3830) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 💪 Opened PR [#218](https://github.com/Codeinwp/templates-patterns-collection/pull/218) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 🗣 Commented on [#219](https://github.com/Codeinwp/templates-patterns-collection/issues/219) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🎉 Merged PR [#218](https://github.com/Codeinwp/templates-patterns-collection/pull/218) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🎉 Merged PR [#217](https://github.com/Codeinwp/templates-patterns-collection/pull/217) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 💪 Opened PR [#219](https://github.com/Codeinwp/templates-patterns-collection/pull/219) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 🎉 Merged PR [#210](https://github.com/Codeinwp/templates-patterns-collection/pull/210) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
