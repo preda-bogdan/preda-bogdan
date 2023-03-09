@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](https://github.com/Codeinwp/themeisle-sdk/pull/162) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
-2. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 💪 Opened PR [#3](https://github.com/preda-bogdan/checklist-pr-labels/pull/3) in [preda-bogdan/checklist-pr-labels](https://github.com/preda-bogdan/checklist-pr-labels)
+2. 🎉 Merged PR [#2](https://github.com/preda-bogdan/checklist-pr-labels/pull/2) in [preda-bogdan/checklist-pr-labels](https://github.com/preda-bogdan/checklist-pr-labels)
+3. 💪 Opened PR [#2](https://github.com/preda-bogdan/checklist-pr-labels/pull/2) in [preda-bogdan/checklist-pr-labels](https://github.com/preda-bogdan/checklist-pr-labels)
+4. 🎉 Merged PR [#1](https://github.com/preda-bogdan/checklist-pr-labels/pull/1) in [preda-bogdan/checklist-pr-labels](https://github.com/preda-bogdan/checklist-pr-labels)
+5. 💪 Opened PR [#1](https://github.com/preda-bogdan/checklist-pr-labels/pull/1) in [preda-bogdan/checklist-pr-labels](https://github.com/preda-bogdan/checklist-pr-labels)
 <!--END_SECTION:activity-->
 <br />
 
