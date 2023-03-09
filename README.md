@@ -56,8 +56,8 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 1. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 2. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 3. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🎉 Merged PR [#228](https://github.com/Codeinwp/templates-patterns-collection/pull/228) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🎉 Merged PR [#226](https://github.com/Codeinwp/templates-patterns-collection/pull/226) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 🗣 Commented on [#3872](https://github.com/Codeinwp/neve/issues/3872) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🎉 Merged PR [#228](https://github.com/Codeinwp/templates-patterns-collection/pull/228) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
