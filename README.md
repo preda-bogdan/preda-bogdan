@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/preda-bogdan/gha-pr-check-helper/pull/2) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
-2. 💪 Opened PR [#2](https://github.com/preda-bogdan/gha-pr-check-helper/pull/2) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
-3. 🎉 Merged PR [#1](https://github.com/preda-bogdan/gha-pr-check-helper/pull/1) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
-4. 💪 Opened PR [#1](https://github.com/preda-bogdan/gha-pr-check-helper/pull/1) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
-5. 🎉 Merged PR [#163](https://github.com/Codeinwp/themeisle-sdk/pull/163) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
+1. 🎉 Merged PR [#4](https://github.com/preda-bogdan/gha-pr-check-helper/pull/4) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
+2. 💪 Opened PR [#4](https://github.com/preda-bogdan/gha-pr-check-helper/pull/4) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
+3. 🎉 Merged PR [#3](https://github.com/preda-bogdan/gha-pr-check-helper/pull/3) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
+4. 💪 Opened PR [#3](https://github.com/preda-bogdan/gha-pr-check-helper/pull/3) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
+5. 🎉 Merged PR [#2](https://github.com/preda-bogdan/gha-pr-check-helper/pull/2) in [preda-bogdan/gha-pr-check-helper](https://github.com/preda-bogdan/gha-pr-check-helper)
 <!--END_SECTION:activity-->
 <br />
 
