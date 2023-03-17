@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#229](https://github.com/Codeinwp/templates-patterns-collection/pull/229) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-2. 🎉 Merged PR [#232](https://github.com/Codeinwp/templates-patterns-collection/pull/232) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-3. 🎉 Merged PR [#230](https://github.com/Codeinwp/templates-patterns-collection/pull/230) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-4. 💪 Opened PR [#232](https://github.com/Codeinwp/templates-patterns-collection/pull/232) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🎉 Merged PR [#3880](https://github.com/Codeinwp/neve/pull/3880) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. ❗️ Closed issue [#198](https://github.com/Codeinwp/templates-patterns-collection/issues/198) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+2. 🎉 Merged PR [#229](https://github.com/Codeinwp/templates-patterns-collection/pull/229) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+3. 🎉 Merged PR [#232](https://github.com/Codeinwp/templates-patterns-collection/pull/232) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+4. 🎉 Merged PR [#230](https://github.com/Codeinwp/templates-patterns-collection/pull/230) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+5. 💪 Opened PR [#232](https://github.com/Codeinwp/templates-patterns-collection/pull/232) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
