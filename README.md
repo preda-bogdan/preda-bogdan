@@ -54,10 +54,10 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-2. ❗️ Closed issue [#5](https://github.com/Codeinwp/gha-pr-check-helper/issues/5) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
-3. 🎉 Merged PR [#6](https://github.com/Codeinwp/gha-pr-check-helper/pull/6) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
-4. 💪 Opened PR [#3915](https://github.com/Codeinwp/neve/pull/3915) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 💪 Opened PR [#6](https://github.com/Codeinwp/gha-pr-check-helper/pull/6) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
+2. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+3. ❗️ Closed issue [#5](https://github.com/Codeinwp/gha-pr-check-helper/issues/5) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
+4. 🎉 Merged PR [#6](https://github.com/Codeinwp/gha-pr-check-helper/pull/6) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
+5. 💪 Opened PR [#3915](https://github.com/Codeinwp/neve/pull/3915) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
