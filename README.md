@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3918](https://github.com/Codeinwp/neve/pull/3918) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+2. 💪 Opened PR [#3918](https://github.com/Codeinwp/neve/pull/3918) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 3. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 4. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-5. ❗️ Closed issue [#5](https://github.com/Codeinwp/gha-pr-check-helper/issues/5) in [Codeinwp/gha-pr-check-helper](https://github.com/Codeinwp/gha-pr-check-helper)
+5. 🗣 Commented on [#1](https://github.com/Codeinwp/neve-fse/issues/1) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 <!--END_SECTION:activity-->
 <br />
 
