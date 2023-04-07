@@ -53,9 +53,9 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Codeinwp/neve-fse/issues/11) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-2. 🗣 Commented on [#12](https://github.com/Codeinwp/neve-fse/issues/12) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-3. 🗣 Commented on [#11](https://github.com/Codeinwp/neve-fse/issues/11) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🗣 Commented on [#13](https://github.com/Codeinwp/neve-fse/issues/13) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+2. 🗣 Commented on [#11](https://github.com/Codeinwp/neve-fse/issues/11) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+3. 🗣 Commented on [#12](https://github.com/Codeinwp/neve-fse/issues/12) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 4. 🗣 Commented on [#11](https://github.com/Codeinwp/neve-fse/issues/11) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 5. 🗣 Commented on [#11](https://github.com/Codeinwp/neve-fse/issues/11) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 <!--END_SECTION:activity-->
