@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3958](https://github.com/Codeinwp/neve/issues/3958) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. ❗️ Opened issue [#248](https://github.com/Codeinwp/templates-patterns-collection/issues/248) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 2. 🗣 Commented on [#3958](https://github.com/Codeinwp/neve/issues/3958) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 🗣 Commented on [#3938](https://github.com/Codeinwp/neve/issues/3938) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🗣 Commented on [#3958](https://github.com/Codeinwp/neve/issues/3958) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 4. 🗣 Commented on [#3938](https://github.com/Codeinwp/neve/issues/3938) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 💪 Opened PR [#3959](https://github.com/Codeinwp/neve/pull/3959) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#3938](https://github.com/Codeinwp/neve/issues/3938) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
