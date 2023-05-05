@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Codeinwp/neve-fse/pull/26) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-2. 💪 Opened PR [#26](https://github.com/Codeinwp/neve-fse/pull/26) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-3. 🎉 Merged PR [#25](https://github.com/Codeinwp/neve-fse/pull/25) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-4. 💪 Opened PR [#25](https://github.com/Codeinwp/neve-fse/pull/25) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-5. 🎉 Merged PR [#8](https://github.com/Codeinwp/neve-fse/pull/8) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🗣 Commented on [#24](https://github.com/Codeinwp/neve-fse/issues/24) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+2. 🎉 Merged PR [#26](https://github.com/Codeinwp/neve-fse/pull/26) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+3. 💪 Opened PR [#26](https://github.com/Codeinwp/neve-fse/pull/26) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+4. 🎉 Merged PR [#25](https://github.com/Codeinwp/neve-fse/pull/25) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+5. 💪 Opened PR [#25](https://github.com/Codeinwp/neve-fse/pull/25) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
 <!--END_SECTION:activity-->
 <br />
 
