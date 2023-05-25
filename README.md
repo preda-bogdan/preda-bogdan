@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3979](https://github.com/Codeinwp/neve/pull/3979) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🎉 Merged PR [#3973](https://github.com/Codeinwp/neve/pull/3973) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 🎉 Merged PR [#3972](https://github.com/Codeinwp/neve/pull/3972) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🎉 Merged PR [#3944](https://github.com/Codeinwp/neve/pull/3944) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-5. 🎉 Merged PR [#3965](https://github.com/Codeinwp/neve/pull/3965) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+1. 🗣 Commented on [#176](https://github.com/Codeinwp/themeisle-sdk/issues/176) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
+2. 🎉 Merged PR [#3979](https://github.com/Codeinwp/neve/pull/3979) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🎉 Merged PR [#3973](https://github.com/Codeinwp/neve/pull/3973) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 🎉 Merged PR [#3972](https://github.com/Codeinwp/neve/pull/3972) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🎉 Merged PR [#3944](https://github.com/Codeinwp/neve/pull/3944) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
