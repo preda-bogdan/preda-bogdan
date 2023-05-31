@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/Codeinwp/neve-fse/issues/30) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-2. 🔒 Closed issue [#31](https://github.com/Codeinwp/neve-fse/issues/31) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-3. 🔒 Closed issue [#32](https://github.com/Codeinwp/neve-fse/issues/32) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-4. 🎉 Merged PR [#39](https://github.com/Codeinwp/neve-fse/pull/39) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-5. 🎉 Merged PR [#35](https://github.com/Codeinwp/neve-fse/pull/35) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🔒 Closed issue [#3847](https://github.com/Codeinwp/neve/issues/3847) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 🔒 Closed issue [#3864](https://github.com/Codeinwp/neve/issues/3864) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🔒 Closed issue [#3919](https://github.com/Codeinwp/neve/issues/3919) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 🔒 Closed issue [#3934](https://github.com/Codeinwp/neve/issues/3934) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🔒 Closed issue [#3938](https://github.com/Codeinwp/neve/issues/3938) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
