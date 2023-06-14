@@ -56,8 +56,8 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 1. 🗣 Commented on [#3995](https://github.com/Codeinwp/neve/issues/3995) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 2. 🗣 Commented on [#3995](https://github.com/Codeinwp/neve/issues/3995) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 3. 🗣 Commented on [#3995](https://github.com/Codeinwp/neve/issues/3995) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. ❗ Opened issue [#180](https://github.com/Codeinwp/themeisle-sdk/issues/180) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
-5. 🎉 Merged PR [#3990](https://github.com/Codeinwp/neve/pull/3990) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 🗣 Commented on [#3995](https://github.com/Codeinwp/neve/issues/3995) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. ❗ Opened issue [#180](https://github.com/Codeinwp/themeisle-sdk/issues/180) in [Codeinwp/themeisle-sdk](https://github.com/Codeinwp/themeisle-sdk)
 <!--END_SECTION:activity-->
 <br />
 
