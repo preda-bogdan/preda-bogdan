@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3963](https://github.com/Codeinwp/neve/issues/3963) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 💪 Opened PR [#156](https://github.com/Codeinwp/woocommerce-product-addon/pull/156) in [Codeinwp/woocommerce-product-addon](https://github.com/Codeinwp/woocommerce-product-addon)
-3. 🗣 Commented on [#3963](https://github.com/Codeinwp/neve/issues/3963) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-4. 🔒 Closed issue [#246](https://github.com/Codeinwp/templates-patterns-collection/issues/246) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
-5. 🔒 Closed issue [#239](https://github.com/Codeinwp/templates-patterns-collection/issues/239) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
+1. 💪 Opened PR [#4010](https://github.com/Codeinwp/neve/pull/4010) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 🗣 Commented on [#3963](https://github.com/Codeinwp/neve/issues/3963) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 💪 Opened PR [#156](https://github.com/Codeinwp/woocommerce-product-addon/pull/156) in [Codeinwp/woocommerce-product-addon](https://github.com/Codeinwp/woocommerce-product-addon)
+4. 🗣 Commented on [#3963](https://github.com/Codeinwp/neve/issues/3963) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🔒 Closed issue [#246](https://github.com/Codeinwp/templates-patterns-collection/issues/246) in [Codeinwp/templates-patterns-collection](https://github.com/Codeinwp/templates-patterns-collection)
 <!--END_SECTION:activity-->
 <br />
 
