@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4035](https://github.com/Codeinwp/neve/issues/4035) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 🗣 Commented on [#4034](https://github.com/Codeinwp/neve/issues/4034) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-3. 🎉 Merged PR [#50](https://github.com/Codeinwp/neve-fse/pull/50) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-4. 🎉 Merged PR [#45](https://github.com/Codeinwp/neve-fse/pull/45) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
-5. 🗣 Commented on [#45](https://github.com/Codeinwp/neve-fse/issues/45) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🗣 Commented on [#57](https://github.com/Codeinwp/neve-fse/issues/57) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+2. 🗣 Commented on [#4032](https://github.com/Codeinwp/neve/issues/4032) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 🗣 Commented on [#4034](https://github.com/Codeinwp/neve/issues/4034) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+4. 🗣 Commented on [#4035](https://github.com/Codeinwp/neve/issues/4035) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+5. 🗣 Commented on [#4034](https://github.com/Codeinwp/neve/issues/4034) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
 <!--END_SECTION:activity-->
 <br />
 
