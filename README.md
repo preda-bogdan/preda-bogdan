@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Codeinwp/riverbank/pull/30) in [Codeinwp/riverbank](https://github.com/Codeinwp/riverbank)
-2. 🎉 Merged PR [#49](https://github.com/Codeinwp/raft/pull/49) in [Codeinwp/raft](https://github.com/Codeinwp/raft)
-3. 🎉 Merged PR [#23](https://github.com/Codeinwp/jaxon/pull/23) in [Codeinwp/jaxon](https://github.com/Codeinwp/jaxon)
-4. 🎉 Merged PR [#24](https://github.com/Codeinwp/fork/pull/24) in [Codeinwp/fork](https://github.com/Codeinwp/fork)
-5. 🎉 Merged PR [#61](https://github.com/Codeinwp/neve-fse/pull/61) in [Codeinwp/neve-fse](https://github.com/Codeinwp/neve-fse)
+1. 🗣 Commented on [#4045](https://github.com/Codeinwp/neve/issues/4045#issuecomment-1645712361) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 🎉 Merged PR [#30](https://github.com/Codeinwp/riverbank/pull/30) in [Codeinwp/riverbank](https://github.com/Codeinwp/riverbank)
+3. 🎉 Merged PR [#49](https://github.com/Codeinwp/raft/pull/49) in [Codeinwp/raft](https://github.com/Codeinwp/raft)
+4. 🎉 Merged PR [#23](https://github.com/Codeinwp/jaxon/pull/23) in [Codeinwp/jaxon](https://github.com/Codeinwp/jaxon)
+5. 🎉 Merged PR [#24](https://github.com/Codeinwp/fork/pull/24) in [Codeinwp/fork](https://github.com/Codeinwp/fork)
 <!--END_SECTION:activity-->
 <br />
 
