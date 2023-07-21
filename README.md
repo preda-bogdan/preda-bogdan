@@ -53,11 +53,11 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4044](https://github.com/Codeinwp/neve/pull/4044) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
-2. 💪 Opened PR [#30](https://github.com/Codeinwp/riverbank/pull/30) in [Codeinwp/riverbank](https://github.com/Codeinwp/riverbank)
-3. 💪 Opened PR [#49](https://github.com/Codeinwp/raft/pull/49) in [Codeinwp/raft](https://github.com/Codeinwp/raft)
-4. 💪 Opened PR [#23](https://github.com/Codeinwp/jaxon/pull/23) in [Codeinwp/jaxon](https://github.com/Codeinwp/jaxon)
-5. 💪 Opened PR [#24](https://github.com/Codeinwp/fork/pull/24) in [Codeinwp/fork](https://github.com/Codeinwp/fork)
+1. 🗣 Commented on [#4045](https://github.com/Codeinwp/neve/issues/4045#issuecomment-1645183639) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+2. 💪 Opened PR [#4044](https://github.com/Codeinwp/neve/pull/4044) in [Codeinwp/neve](https://github.com/Codeinwp/neve)
+3. 💪 Opened PR [#30](https://github.com/Codeinwp/riverbank/pull/30) in [Codeinwp/riverbank](https://github.com/Codeinwp/riverbank)
+4. 💪 Opened PR [#49](https://github.com/Codeinwp/raft/pull/49) in [Codeinwp/raft](https://github.com/Codeinwp/raft)
+5. 💪 Opened PR [#23](https://github.com/Codeinwp/jaxon/pull/23) in [Codeinwp/jaxon](https://github.com/Codeinwp/jaxon)
 <!--END_SECTION:activity-->
 <br />
 
