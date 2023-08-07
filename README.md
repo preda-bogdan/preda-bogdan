@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/bogdanWK">
-  <img align="left" alt="Bogdan Preda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=preda-bogdan.preda-bogdan&left_color=gray&right_color=blue)
-<br />
-
 Hi, I'm [Bogdan](https://github.com/preda-bogdan/), a self-taught developer that is passionate about learning and working with new tools and technologies. I love tinkering and trying to build better and beautifull code that just works.
 
 I am currently working at [Themeisle](https://themeisle.com/) where I'm trying my best to build great software and user experiences.
