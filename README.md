@@ -40,7 +40,7 @@ I am currently working at [Themeisle](https://themeisle.com/) where I'm trying m
 
 ## Stats for Geeks :coffee:
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preda-bogdan&theme=buefy-dark&hide_border=true&dates=ee9b00&date_format=d&nbsp;M[&nbsp;Y]" alt="preda-bogdan's streak" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preda-bogdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="preda-bogdan's stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preda-bogdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="preda-bogdan's stats" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preda-bogdan&theme=tokyonight&hide_border=true&count_private=true&custom_title=Recent%20language%20usage" alt="preda-bogdan's recent language usage" />
 <br />
 
