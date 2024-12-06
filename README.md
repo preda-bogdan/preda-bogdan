@@ -2,7 +2,7 @@
 
 Hi, I'm [Bogdan](https://github.com/preda-bogdan/), a self-taught developer that is passionate about learning and working with new tools and technologies. I love tinkering and trying to build better and beautifull code that just works.
 
-I am currently working at [Themeisle](https://themeisle.com/) where I'm trying my best to build great software and user experiences.
+I am currently working at [Antena Group](https://antenagroup.ro/ro) where I'm trying my best to build great software and user experiences.
 <br />
 
 ## Things I code with
